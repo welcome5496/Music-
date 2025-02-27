@@ -4,7 +4,7 @@ import yt_dlp
 import re
 
 # Replace with your Telegram Bot Token
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "7995739639:AAHwFkfjrh6-RZTCBV793imNmMDe6hn-GGo"
 bot = telebot.TeleBot(TOKEN, parse_mode="HTML")
 
 # Function to sanitize filenames (remove special characters)
